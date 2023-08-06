@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card component snapshot 1`] = `
+<div
+  className="Card"
+>
+  <h4
+    className="Card-title"
+  />
+  <img
+    className="Card-image"
+  />
+  <small
+    className="Card-small"
+  >
+    Image 
+     of 
+    .
+  </small>
+</div>
+`;
